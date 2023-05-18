@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/styles/styles.css">
+    <title>Италия</title>
+    <link rel="icon" href="https://mobimg.b-cdn.net/v3/fetch/2c/2cffdefb2e7f9d7da4e24184dc2cf0de.jpeg">
+</head>
+<header class="header">
+    <form action="/russia">
+        <input class="button"  type="submit" value="Россия">
+    </form>
+    <form action="china">
+        <input class="button"  type="submit" value="Китай">
+    </form>
+    <form action="/japan">
+        <input class="button"  type="submit" value="Япония">
+    </form>
+</header>
+<body class="body">
+    <ul>
+        <li>Тибр впадает в Тирренское море</li>
+        <li>Тальяменто впадает в Венецианский залив Адриатического моря</li>
+        <li>Адидже впадает в Адриатическое море</li>
+    </ul>
+</body>
